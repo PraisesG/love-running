@@ -1,0 +1,12 @@
+/* Styles for header, main, and footer */
+header {
+    background-color: lightcoral;
+}
+/* Styles for main content */
+main {
+    background-color: lightblue;
+}
+/* Styles for footer */
+footer {
+    background-color: orange;
+}
